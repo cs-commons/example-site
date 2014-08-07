@@ -1,0 +1,3 @@
+url: "http://cs-commons.github.io/example-site"
+markdown: rdiscount
+pygments: true
