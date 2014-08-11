@@ -3,6 +3,8 @@ layout: default
 title: "CS Commons Example Site"
 ---
 
-Welcome to the site!
+This is an example [CS Commons](http://cs-commons.github.io/) site.  Although it is intended mainly as an example to show how to make a CS Commons website for a course, it is a fairly realistic CS1 course using C as the programming language.
 
-There is nothing here yet.
+# Assignments
+
+* Assignment 6: [Breakout](assignments/breakout/index.html)
