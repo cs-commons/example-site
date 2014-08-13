@@ -7,4 +7,5 @@ This is an example [CS Commons](http://cs-commons.github.io/) site.  Although it
 
 # Assignments
 
+* Assignment 1: [Freefalling](assignments/freefalling/index.html)
 * Assignment 6: [Breakout](assignments/breakout/index.html)

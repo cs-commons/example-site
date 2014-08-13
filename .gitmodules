@@ -1,3 +1,6 @@
 [submodule "assignments/breakout"]
 	path = assignments/breakout
 	url = https://github.com/cs-commons/breakout.git
+[submodule "assignments/freefalling"]
+	path = assignments/freefalling
+	url = https://github.com/cs-commons/freefalling
